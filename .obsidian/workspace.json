@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "7fc9b725bc1b9284",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc6d626d7cf5862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1560953892c9e0a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "운영체제 강의 노트/운영체제 강의 노트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "운영체제 강의 노트"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "099f98f428214182",
+    "type": "split",
+    "children": [
+      {
+        "id": "57b1db293c82ee41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00452a445cc81150",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "09c6bf47dcaebeaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "f799125c2cbe7610",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94af96f32515038c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9534ba05c75ec583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb7f522ce45ed61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "운영체제 강의 노트/운영체제 강의 노트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "운영체제 강의 노트의 백링크"
+            }
+          },
+          {
+            "id": "470fbe0d7c0dc56d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "운영체제 강의 노트/운영체제 강의 노트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "운영체제 강의 노트의 나가는 링크"
+            }
+          },
+          {
+            "id": "d7bb85abc5166572",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "427d8d2e68a254d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "운영체제 강의 노트/운영체제 강의 노트.md"
+              },
+              "icon": "lucide-list",
+              "title": "운영체제 강의 노트 개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1560953892c9e0a9",
+  "lastOpenFiles": [
+    "운영체제 강의 노트"
+  ]
+}
